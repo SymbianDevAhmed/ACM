@@ -1,0 +1,26 @@
+# Build output
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+# Compiled executables
+*.exe
+*.out
+
+# Visual Studio / Code::Blocks
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+
+# IDE and temporary files
+.idea/
+.vscode/
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
